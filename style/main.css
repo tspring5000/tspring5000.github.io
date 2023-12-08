@@ -5,34 +5,11 @@
     --dark: #000000;
 }
 
-@font-face {
-    font-family: "Roboto_Mono";
-    src: url(RobotoMono.ttf);
-}
-
 body {
-    font-family: "Roboto_Mono", monospace;
+    font-family: Sans-Serif;
     margin: 0 50px;
     background-color: var(--light);
     color: var(--dark);
-}
-
-blockquote {
-    background: var(--med);
-    border-left: 10px solid var(--med-dark);
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
-}
-
-blockquote p {
-    display: inline;
-}
-
-.section {
-    background: var(--med);
-    padding-left: 5px;
-    padding-right: 5px;
 }
 
 @media screen {
