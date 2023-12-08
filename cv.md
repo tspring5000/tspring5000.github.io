@@ -25,8 +25,8 @@ Intermediate: **Go** / **Svelte** / **C#** / **Typescript** / **Flutter**
 - Responsible for data management and reporting for external clients
 
 ## On the Side
-**Game Dev**
+**Game Dev**\
 I spend much of my free time on game development, from small game jams over the weekend to large multi-year projects. My usual tooling consists of Godot, Blender and Aesprite, however in the past I've used Unity and PICO-8, and I've also tried a few frameworks such as Bevy, Raylib and WASM-4. I'm particularly interested in procedural generation and creative coding.
 
-**Music**
+**Music**\
 Due to working on so many solo game dev projects, I developed a need to make music for my games, which soon branched off into a hobby entirely of its own. Currently I'm trying out Glicol, a programmatic approach to building synths and composing music.
