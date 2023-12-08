@@ -5,12 +5,12 @@ _github.com/tspring5000_
 
 I am a highly motivated engineer with a strong proven track record of managing large corporate platforms and leading internal product development programs. I enjoy building relationships with external clients and internal teams, and have considerable experience of developing my and others capabilities.
 
-## Skills
+## 💾 Skills
 Expert: **Django** / **Python** / **VueJS** / **REST** / **Git**
 
 Intermediate: **Go** / **Svelte** / **C#** / **Typescript** / **Flutter**
 
-## Experience
+## 💼 Experience
 **Travelling** (Jan 2023 - Present)
 - I took a year out to travel South East Asia, including Thailand, Vietnam and Cambodia.
 
@@ -24,7 +24,7 @@ Intermediate: **Go** / **Svelte** / **C#** / **Typescript** / **Flutter**
 **Data Analyst** @ Corporate Software Services, Inc (Sep 2017 - Mar 2019)
 - Responsible for data management and reporting for external clients
 
-## On the Side
+## 📌 On the Side
 **Game Dev**\
 I spend much of my free time on game development, from small game jams over the weekend to large multi-year projects. My usual tooling consists of Godot, Blender and Aesprite, however in the past I've used Unity and PICO-8, and I've also tried a few frameworks such as Bevy, Raylib and WASM-4. I'm particularly interested in procedural generation and creative coding.
 
