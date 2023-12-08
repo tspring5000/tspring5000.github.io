@@ -1,12 +1,15 @@
 # Tom Spring
 _Full Stack Engineer - UK_
+
 _tomspring5000@gmail.com / 07758 600167_
+
 _github.com/tspring5000_
 
 I am a highly motivated engineer with a strong proven track record of managing large corporate platforms and leading internal product development programs. I enjoy building relationships with external clients and internal teams, and have considerable experience of developing my and others capabilities.
 
 ## Skills
 Expert: **Django** / **Python** / **VueJS** / **REST** / **Git**
+
 Intermediate: **Go** / **Svelte** / **C#** / **Typescript** / **Flutter**
 
 ## Experience
