@@ -11,7 +11,7 @@ Expert: **Django** / **Python** / **VueJS** / **REST** / **Git**
 Intermediate: **Go** / **Svelte** / **React js** / **Rust** / **Flutter** / **Swift**
 
 ## 💼 Experience
-**Travelling** (Jan 2023 - Present)
+**Career Break** (Jan 2023 - Present)
 - I took a year out to travel South East Asia, including Thailand, Vietnam and Cambodia.
 
 **Full Stack Django Engineer** @ The Access Group (Apr 2019 - Dec 2022)
