@@ -2,6 +2,7 @@
 _Full Stack Engineer - UK_\
 _tomspring5000@gmail.com / 07758 600167_\
 _github.com/tspring5000_
+_linkedin.com/in/tom-spring5000/_
 
 I am a highly motivated engineer with a strong proven track record of managing large corporate platforms and leading internal product development programs. I enjoy building relationships with external clients and internal teams, and have considerable experience of developing my and others capabilities.
 
