@@ -8,7 +8,7 @@ I am a highly motivated engineer with a strong proven track record of managing l
 ## 💾 Skills
 Expert: **Django** / **Python** / **VueJS** / **REST** / **Git**
 
-Intermediate: **Go** / **Svelte** / **C#** / **Typescript** / **Flutter**
+Intermediate: **Go** / **Svelte** / **React js** / **Rust** / **Flutter** / **Swift**
 
 ## 💼 Experience
 **Travelling** (Jan 2023 - Present)
