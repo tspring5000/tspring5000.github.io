@@ -27,8 +27,8 @@ Intermediate: **Go** / **Svelte** / **React js** / **Rust** / **Flutter** / **Sw
 
 ## 📌 On the Side
 **Mobile Apps**\
-Recently I've been working on a synthesiser app for iOS and an experimental sleep app using Flutter.
-This has even taken me so far as learning Arduino as a prototyping platform
+Recently I've been working on a synthesiser app for iOS called Nonatone (availible on the iOS and Mac app store), which has been very well received in the small time its been out for.
+I have also been working on an experimental sleep app using Flutter, which has even taken me so far as learning Arduino as a prototyping platform
 
 **Game Dev**\
 Game dev has been a side project for me since I started learning programming, 
