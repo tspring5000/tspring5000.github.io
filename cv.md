@@ -7,18 +7,19 @@ _linkedin.com/in/tom-spring5000/_
 I am a highly motivated engineer with a strong proven track record of managing large corporate platforms and leading internal product development programs. I enjoy building relationships with external clients and internal teams, and have considerable experience of developing my and others capabilities.
 
 ## 💾 Skills
-Expert: **Django** / **Python** / **VueJS** / **REST** / **Git**
+Expert: **Django** / **Python** / **Vue** / **REST** / **Git**
 
-Intermediate: **Go** / **Svelte** / **React js** / **Rust** / **Flutter** / **Swift**
+Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift**
 
 ## 💼 Experience
 **Career Break** (Jan 2023 - Present)
 - I took a year out to travel South East Asia, including Thailand, Vietnam and Cambodia.
 
-**Full Stack Django Engineer** @ The Access Group (Apr 2019 - Dec 2022)
+**Full Stack Engineer** @ The Access Group (Apr 2019 - Dec 2022)
+- Django, Python, Vue, DRF, Git, Linux, AWS
 - Responsible for managing recruitment candidate screening platform for over 200 corporate clients
 - Experience of leading product enhancement projects, for example, implementation of a medical check feature allowing us to process medically trained candidates at the critical time of COVID19
-- Experience consuming and building API's, for example, I led an ambitious rewrite of the public API with the goal of reaching feature parity with the front-end and improving documentation coverage
+- Experience consuming and building API's, for example I led an ambitious rewrite of the public API with the goal of reaching feature parity with the front-end and improving documentation coverage
 - Accountable for management of sensitive data, for example, executed a migration of client billing information to a new system, automating the previously intensive work of keeping up with bespoke contracts
 - Onboarding new starters to the development team of all experience levels and mentoring junior/mid-level engineers.
 
