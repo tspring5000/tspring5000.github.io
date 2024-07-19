@@ -13,7 +13,9 @@ Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift
 
 ## 💼 Experience and Education
 **Career Break** (Jan 2023 - Present)
-- I took a year out to travel South East Asia, including Thailand, Vietnam and Cambodia.
+- Took a year out to travel in South East Asia, covering Thailand, Vietnam, and Cambodia
+- Also used the time for learning new technologies such as Swift, Flutter, Go, Rust, and React
+- Launched first iOS app 'Nonatone'
 
 **Full Stack Engineer** @ The Access Group (Apr 2019 - Dec 2022)
 - Django, Python, Vue, DRF, Git, Linux, AWS
