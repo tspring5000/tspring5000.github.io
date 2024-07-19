@@ -9,12 +9,12 @@ I am a highly motivated engineer with a strong proven track record of managing l
 ## 💾 Skills
 Expert: **Django** / **Python** / **Vue** / **REST** / **Git**
 
-Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift**
+Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift** / **Zig**
 
 ## 💼 Experience and Education
 **Career Break** (Jan 2023 - Present)
 - Took a year out to travel in South East Asia, covering Thailand, Vietnam, and Cambodia
-- Also used the time for learning new technologies such as Swift, Flutter, Go, Rust, and React
+- Also used the time for learning new technologies such as Swift, Flutter, Go, Rust, Zig and React
 - Launched first iOS app 'Nonatone'
 
 **Full Stack Engineer** @ The Access Group (Apr 2019 - Dec 2022)
