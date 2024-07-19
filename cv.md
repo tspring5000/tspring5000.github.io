@@ -25,9 +25,8 @@ Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift
 
 **Data Analyst** @ Corporate Software Services, Inc (Sep 2017 - Mar 2019)
 - SQL, Python, Elasticsearch, Splunk, PowerBI, Selenium
-- Managed data and reporting for external clients
+- Managed data, reporting and web testing for external clients
 - Developed data pipelines using Python and various API's
-- Automated web tests with Selenium
 
 ## 📌 On the Side
 **Mobile Apps**\
