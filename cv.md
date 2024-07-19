@@ -24,7 +24,10 @@ Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift
 - Onboarding new starters to the development team of all experience levels and mentoring junior/mid-level engineers.
 
 **Data Analyst** @ Corporate Software Services, Inc (Sep 2017 - Mar 2019)
-- Responsible for data management and reporting for external clients
+- SQL, Python, Elasticsearch, Splunk, PowerBI, Selenium
+- Managed data and reporting for external clients
+- Developed data pipelines using Python and various API's
+- Automated web tests with Selenium
 
 ## 📌 On the Side
 **Mobile Apps**\
