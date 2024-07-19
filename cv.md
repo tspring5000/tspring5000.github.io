@@ -11,7 +11,7 @@ Expert: **Django** / **Python** / **Vue** / **REST** / **Git**
 
 Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift**
 
-## 💼 Experience
+## 💼 Experience and Education
 **Career Break** (Jan 2023 - Present)
 - I took a year out to travel South East Asia, including Thailand, Vietnam and Cambodia.
 
@@ -27,6 +27,10 @@ Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift
 - SQL, Python, Elasticsearch, Splunk, PowerBI, Selenium
 - Managed data, reporting and web testing for external clients
 - Developed data pipelines using Python and various API's
+
+**Apprenticeship** (2014 - 2016)
+- BTEC Level 3 - Diploma in Professional Competence for IT and Telecoms Professionals
+- BTEC Level 3 - Extended Diploma in ICT Systems and Principle
 
 ## 📌 On the Side
 **Mobile Apps**\
