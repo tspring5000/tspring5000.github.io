@@ -28,9 +28,10 @@ Intermediate: **Go** / **Svelte** / **React** / **Rust** / **Flutter** / **Swift
 - Managed data, reporting and web testing for external clients
 - Developed data pipelines using Python and various API's
 
-**Apprenticeship** (2014 - 2016)
-- BTEC Level 3 - Diploma in Professional Competence for IT and Telecoms Professionals
-- BTEC Level 3 - Extended Diploma in ICT Systems and Principle
+## 📚 Education
+- BTEC Level 3 - Diploma in Professional Competence for IT and Telecoms Professionals (2016 Apprenticeship)
+- BTEC Level 3 - Extended Diploma in ICT Systems and Principle (2016 Apprenticeship)
+- ITIL Foundation Certification Training Level (2018)
 
 ## 📌 On the Side
 **Mobile Apps**\
